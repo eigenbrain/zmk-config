@@ -1,5 +1,5 @@
 
-#include "waaffle_rev3.dtsi"
+#include "mynewboard.dtsi"
 // / {
 //     chosen {
 //         zmk,kscan = &kscan0;
